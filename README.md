@@ -1,1 +1,1 @@
-﻿# Prueba técnica básica para reforzar conocimientos
+﻿Prueba técnica básica para reforzar conocimientos
