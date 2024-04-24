@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui, sans-serif;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.image-mask {
+    width: 400px;
+    height: 400px;
+}
+
+.cat-image{
+    /* width: 100%; */
+    /* object-fit: contain; */
+    max-width: 400px;
+    height: auto;
+}
